@@ -38,4 +38,4 @@ ENV GOPATH /home/ciphrtxt
 #install ctcd
 ENV PATH /usr/lib/go-1.6/bin:$PATH
 
-CMD /bin/sh
+#CMD /bin/sh
